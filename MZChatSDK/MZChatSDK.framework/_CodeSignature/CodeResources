@@ -40,6 +40,10 @@
 		<data>
 		lamofybt/pUye7EvCU3OAEyJrjg=
 		</data>
+		<key>Headers/MZChatCommen.h</key>
+		<data>
+		9E7anpir88uXPtFsuPGAtMxANBU=
+		</data>
 		<key>Headers/MZChatKitManager.h</key>
 		<data>
 		ou5GfEIUzflyXn3ja94QUA/yOlU=
@@ -54,7 +58,7 @@
 		</data>
 		<key>Headers/MZChatSDK.h</key>
 		<data>
-		vJ8xg0ZTjth1YyenEiem3+YBlmw=
+		NEr4M3olQ8EektMHS4SQ6ciEC5E=
 		</data>
 		<key>Headers/MZChatThemeManager.h</key>
 		<data>
@@ -238,6 +242,17 @@
 			FnnIV1i62Il5PQt6ziGOXp5RQ9+i3QuBjKqIX/eGEgQ=
 			</data>
 		</dict>
+		<key>Headers/MZChatCommen.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9E7anpir88uXPtFsuPGAtMxANBU=
+			</data>
+			<key>hash2</key>
+			<data>
+			XZot7JQrFHE00syqqsd3R2jZ34B8rYS2uEFOrfkeZ5Q=
+			</data>
+		</dict>
 		<key>Headers/MZChatKitManager.h</key>
 		<dict>
 			<key>hash</key>
@@ -275,11 +290,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vJ8xg0ZTjth1YyenEiem3+YBlmw=
+			NEr4M3olQ8EektMHS4SQ6ciEC5E=
 			</data>
 			<key>hash2</key>
 			<data>
-			PkthEdOE5P0Pr6xIV6TUFlJipJwgwQAan0nxHobwtlQ=
+			lHfG+FIxwDldsojuxioqGTxyrHrHAhARjd4Qo9wPPwo=
 			</data>
 		</dict>
 		<key>Headers/MZChatThemeManager.h</key>

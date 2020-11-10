@@ -38,6 +38,8 @@
 #import "MZRightModel.h"
 #import "MZActMsg.h"
 
+#import "MZChatCommen.h"
+
 //! Project version number for MZChatSDK.
 FOUNDATION_EXPORT double MZChatSDKVersionNumber;
 
