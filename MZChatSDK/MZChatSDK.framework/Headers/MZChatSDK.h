@@ -12,8 +12,6 @@
 #import "MZChatKitManager.h"
 #import "MZChatApiManager.h"
 
-
-
 #pragma mark - APP
 #import "MZAppChatApiManager.h"
 #import "MZChatNetOperate.h"
@@ -33,6 +31,12 @@
 #import "MZGoodsListModel.h"
 #import "MZSingleContentModel.h"
 #import "MZGlobalContentModel.h"
+
+#import "HDAutoADModel.h"
+#import "HDCustomTextADModel.h"
+#import "MZRightContenModel.h"
+#import "MZRightModel.h"
+#import "MZActMsg.h"
 
 //! Project version number for MZChatSDK.
 FOUNDATION_EXPORT double MZChatSDKVersionNumber;
