@@ -8,16 +8,31 @@
 
 #import <Foundation/Foundation.h>
 
-#pragma mark - APP
-#import "MZAppChatApiManager.h"
-#import "MZChatPresenter.h"
-#import "MZLongPolling.h"
-
 #pragma mark - SDK
 #import "MZChatKitManager.h"
 #import "MZChatApiManager.h"
 
 
+
+#pragma mark - APP
+#import "MZAppChatApiManager.h"
+#import "MZChatNetOperate.h"
+#import "MZChatThemeManager.h"
+#import "MZChatTool.h"
+#import "MZLongPolling.h"
+#import "MZChatPresenter.h"
+
+
+#import "DXFaceView.h"
+#import "FacialView.h"
+#import "MZAppMessageToolView.h"
+#import "MZBarrageSwitch.h"
+#import "MZLongPollDataModel.h"
+#import "MZRightModel.h"
+#import "MZGoodsListOuterModel.h"
+#import "MZGoodsListModel.h"
+#import "MZSingleContentModel.h"
+#import "MZGlobalContentModel.h"
 
 //! Project version number for MZChatSDK.
 FOUNDATION_EXPORT double MZChatSDKVersionNumber;

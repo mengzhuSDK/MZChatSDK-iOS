@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import <MZCoreSDKLibrary/MZCoreSDKLibrary.h>
+#import "MZLongPollDataModel.h"
 
 @protocol MZChatKitDelegate<NSObject>
 @optional
