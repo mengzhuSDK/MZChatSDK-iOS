@@ -12,6 +12,10 @@
 		<data>
 		wheU0bDvHfxqtydERe4CGpbV6b0=
 		</data>
+		<key>Headers/HDAutoADModel.h</key>
+		<data>
+		w5w6WmiPAb1ugla7UpzQV2AdzaI=
+		</data>
 		<key>Headers/HDCustomTextADModel.h</key>
 		<data>
 		M6pM3M1nDIwVAz1c2B+RjCAER5w=
@@ -94,7 +98,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OP8ih7cbQbyd+y3eyMH6UMkGnvM=
+		9JenzgjEdHoESalX1UwqhVieG3Q=
 		</data>
 		<key>MZChatSDKResource.bundle/mz_barrageSwitch_off@2x.png</key>
 		<data>
@@ -155,6 +159,17 @@
 			<key>hash2</key>
 			<data>
 			sTpflYFjTrI3KCtMFXTOnoJC6vWa1KJ2MQKMOsB/ICU=
+			</data>
+		</dict>
+		<key>Headers/HDAutoADModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			w5w6WmiPAb1ugla7UpzQV2AdzaI=
+			</data>
+			<key>hash2</key>
+			<data>
+			IeqDboMJSCsWPPv0doFC3p6NaC298cr3Xj9XTc0jgL4=
 			</data>
 		</dict>
 		<key>Headers/HDCustomTextADModel.h</key>
