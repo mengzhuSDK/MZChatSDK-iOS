@@ -7,9 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "MZChatPrefixHeader.h"
 #import "DXFaceView.h"
 #import "MZBarrageSwitch.h"
+#import <MZCoreSDKLibrary/MZCoreSDKLibrary.h>
 
 #define kInputTextViewMinHeight 32*MZ_RATE
 #define kInputTextViewMaxHeight 32*MZ_RATE
