@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.authors      = "Mengzhu"
   s.name         = "MZChatSDK"
-  s.version      = "2.6.6"
+  s.version      = "2.6.7"
   s.summary      = "MZChatSDK MZ iOS SDK"
   s.description  = "Provides the user to push the stream and the playback function"
   s.homepage     = "http://www.zmengzhu.com"
