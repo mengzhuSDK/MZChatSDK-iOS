@@ -46,11 +46,11 @@
 		</data>
 		<key>Headers/MZChatCommen.h</key>
 		<data>
-		Kpl/UaILH/qnKExZEiMFr4iqF64=
+		+LQhWiYWrVPhJsXGMvBJzgoBito=
 		</data>
 		<key>Headers/MZChatKitManager.h</key>
 		<data>
-		ou5GfEIUzflyXn3ja94QUA/yOlU=
+		HQ9qJH8WoQKP1med9jnUWQnojFU=
 		</data>
 		<key>Headers/MZChatNetOperate.h</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		o0ATOQnSuNyT9FGtRXbupk/uy3o=
+		bk508C0+b6TaBDpZPOMlU+QBMtk=
 		</data>
 		<key>MZChatSDKResource.bundle/mz_barrageSwitch_off@2x.png</key>
 		<data>
@@ -261,22 +261,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Kpl/UaILH/qnKExZEiMFr4iqF64=
+			+LQhWiYWrVPhJsXGMvBJzgoBito=
 			</data>
 			<key>hash2</key>
 			<data>
-			U4NP8230caTjyvrKoK4KX+Krb45GyuYcn3kBI1xUgmg=
+			U2Qj8CYWvZloN5lyz7tFOZiCLnulKl+AJfmcXO81AhI=
 			</data>
 		</dict>
 		<key>Headers/MZChatKitManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ou5GfEIUzflyXn3ja94QUA/yOlU=
+			HQ9qJH8WoQKP1med9jnUWQnojFU=
 			</data>
 			<key>hash2</key>
 			<data>
-			NoijECnXIo0Tr1W7t6wv71iBZWqjGcN/ZzfExyKkmaI=
+			/tF4nzCEiC0jWNrlC/vHoQ6czvS3iS/LfNkr+daQJjc=
 			</data>
 		</dict>
 		<key>Headers/MZChatNetOperate.h</key>
