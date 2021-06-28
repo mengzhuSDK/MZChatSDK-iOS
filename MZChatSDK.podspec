@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
   s.vendored_frameworks = 'MZChatSDK/MZChatSDK.framework'
   s.resource="MZChatSDK/MZChatSDKResource.bundle"
-  s.dependency 'MZCoreSDKLibrary','>= 2.7.0'
+  s.dependency 'MZCoreSDKLibrary','~>2.7.0'
   s.dependency 'MZSocketIO'
   s.dependency 'MZEmojiLabel','~> 1.1.4'
   s.source_files = 'MZChatHeader/Header/*'
