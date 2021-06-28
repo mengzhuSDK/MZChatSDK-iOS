@@ -20,7 +20,7 @@ lib_command = ""
 pod_push_command = ""
 spec_file_path = "./" + podspec_file_name
 find_version_flag = False
-allow_warnings = "--allow-warnings --skip-import-validation"
+allow_warnings = "--allow-warnings"
 
 
 
